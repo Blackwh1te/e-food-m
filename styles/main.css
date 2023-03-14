@@ -282,3 +282,7 @@ h2.section-title {
 .catalog-card-price:not(:last-child) {
   margin-bottom: 11px;
 }
+
+.button {
+  display: none !important;
+}
